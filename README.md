@@ -1,13 +1,7 @@
-<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu+Mono" />
-<style>
- body {
-   font-family: "Ubuntu Mono";
- }
-</style>
-<body>
 <h2> Hi, I'm Wesley (VertCode)</h2>
 <img align='right' src="https://vertcode.eu/logo%27s/VertCode-Logo.png" width="230">
-<p><img src="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/menu/menu-buy--reversed.gif" width="30"> Minecraft Plugin Developer
+<p><img src="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico" width="30"> Minecraft Plugin Developer <br>
+<p><img src="https://cdn.vertcode.eu/i/sys-admin.png" width="30"> System Admin
 </p>
 
 
@@ -44,4 +38,3 @@ public class Wesley {
   }
 }
 ```
-</body>
