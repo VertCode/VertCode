@@ -4,10 +4,7 @@
 <p><img src="https://cdn.vertcode.eu/i/sys-admin.png" width="30"> System Admin
 </p>
 
-
-[![Twitter: VertCodeEU](https://img.shields.io/twitter/follow/VertCodeEU?style=social)](https://twitter.com/VertCodeEU)
-[![GitHub VertCode](https://img.shields.io/github/followers/VertCode?label=follow&style=social)](https://github.com/VertCode)  
-
+---
 ```java
 public class Wesley {
 
