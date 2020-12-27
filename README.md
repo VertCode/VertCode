@@ -10,12 +10,10 @@ public class Wesley {
 
   private String name;
   private int age;
-  private boolean systemAdmin;
 
   public Wesley(String name, int age) {
     this.name = name;
     this.age = age;
-    this.systemAdmin = true;
   }
 
   public String[] languages = new String[] {
@@ -28,10 +26,6 @@ public class Wesley {
 
   public String getAge() {
     return String.format("I am %s years old!", this.age);
-  }
-
-  public boolean isSystemAdmin() {
-    return this.systemAdmin;
   }
 }
 ```
